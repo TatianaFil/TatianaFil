@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TatianaFil
+- 👋 Hi, I’m Tatiana Filatova
 - 👀 I’m interested in Stochastic Models of Gene Expression
 - 🌱 I’m currently learning Mathematical Biology
 - 💞️ I’m looking to collaborate on Gene Regulatory Networks
